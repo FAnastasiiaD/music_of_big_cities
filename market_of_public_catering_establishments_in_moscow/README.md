@@ -25,7 +25,7 @@
  2. Предобработка данных.
  3. Анализ данных.
  4. Вывод.
- 5. [Презентация.](https://disk.yandex.ru/i/WHNU9BEvSc02Kw)
+ 5. [Презентация.](https://drive.google.com/file/d/1boqoqbaOyvOwYVNxW5gMU0OnzVt2cBiv/view?usp=sharing)
 
 ## Используемые библиотеки
 - *Pandas*
