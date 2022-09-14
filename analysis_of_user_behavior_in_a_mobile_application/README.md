@@ -1,7 +1,7 @@
 # Описание проекта Анализ пользовательского поведения в мобильном приложении
 Работа в стартапе, который продаёт продукты питания.
 
-[Для отображения всего функционала, используйте NBCiewer - Jupiter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/analysis_of_user_behavior_in_a_mobile_application/analysis_of_user_behavior_in_a_mobile_application_project.ipynb)
+[Для отображения всего функционала, используйте NBCiewer - Jupyter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/analysis_of_user_behavior_in_a_mobile_application/analysis_of_user_behavior_in_a_mobile_application_project.ipynb)
 
 ## Данные
 
