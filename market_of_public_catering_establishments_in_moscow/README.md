@@ -1,5 +1,5 @@
 # Описание проекта Рынок заведений общественного питания Москвы
-[Для отображения всего функционалаб используйте NBCiewer - Jupiter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/market_of_public_catering_establishments_in_moscow/market_of_public_catering_establishments_in_moscow_project.ipynb)
+[Для отображения всего функционала, используйте NBCiewer - Jupiter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/market_of_public_catering_establishments_in_moscow/market_of_public_catering_establishments_in_moscow_project.ipynb)
 
 ## Данные
 
