@@ -1,8 +1,7 @@
 # Описание проекта Игры — Анализ рекламных источников
 Мобильная игра «Космические братья». Основная монетизация игры — только планируется. Но предполагается, что в приложении будет происходить показ рекламы на экране с выбором типа объекта для постройки. Игра уже пользуется большой популярностью — настало время на ней зарабатывать.
 
-[Для отображения всего функционала, используйте NBCiewer - Jupyter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/
-games-analysis_of_advertising_sources/games-analysis_of_advertising_sources_project.ipynb)
+[Для отображения всего функционала, используйте NBCiewer - Jupyter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/games-analysis_of_advertising_sources/games-analysis_of_advertising_sources_project.ipynb)
 
 Статус проекта: завершен.
 
