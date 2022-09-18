@@ -45,7 +45,7 @@
         - *через реализацию проекта,*
         - *через победу над первым игроком.*
         
-Подготовить [презентацию](https://drive.google.com/file/d/1dfNnEV-7VCcxl1X_oOkJmJZLrfTY29yb/view?pli=1) и [дашборд](https://public.tableau.com/app/profile/anastasiia7648/viz/Dash_game/Dashboard1?publish=yes).
+Подготовить презентацию и дашборд.
 
 ## Ход исследования
 
@@ -55,6 +55,7 @@
  4. Анализ поведения пользователей.
  5. Проверка статистических гипотез.
  6. Выводы и базовые рекомендации по работе с клиентами.
+ 7. [Презентация](https://drive.google.com/file/d/1dfNnEV-7VCcxl1X_oOkJmJZLrfTY29yb/view?pli=1) и [Дашборд](https://public.tableau.com/app/profile/anastasiia7648/viz/Dash_game/Dashboard1?publish=yes)
  
 ## Вывод
 
