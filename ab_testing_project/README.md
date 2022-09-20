@@ -1,6 +1,6 @@
 # Описание проекта по А/B-тестированию
 
-[Для отображения всего функционала, используйте NBCiewer - Jupyter Notebook](https://nbviewer.org/github/FAnastasiiaD/portfolio/blob/main/ab_testing_project/ab_testing_project.ipynb)
+[Для отображения всего функционала, используйте NBCiewer - Jupyter Notebook](https://nbviewer.org/github.com/FAnastasiiaD/portfolio/blob/main/ab_testing_project/ab_testing_project.ipynb)
 
 Статус проекта: завершен.
 
