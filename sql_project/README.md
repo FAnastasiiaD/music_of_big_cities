@@ -76,5 +76,5 @@
 
 ## Используемые библиотеки
 
-*Pandas*
-*SQLAlchemy*
+- *Pandas*
+- *SQLAlchemy*
